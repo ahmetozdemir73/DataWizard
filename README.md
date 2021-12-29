@@ -1,5 +1,5 @@
 # DataWizard
-It is written to generate data from real-time camera images or video frames for computer vision projects. 
+It was created to generate data from real-time camera images or video frames for computer vision projects. 
 
 
 Parameters of the dataWizard class:
